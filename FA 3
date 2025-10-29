@@ -1,0 +1,7 @@
+age = int(input("Hi there!  Please enter your age: ")) 
+‎x = 0
+‎counter = 0
+‎while x < age:
+‎       counter = counter + x + 1
+‎       x = x + 1
+‎print("The sum of all the numbers from 1 to", age,  "Is: ", counter) 
